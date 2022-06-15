@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "postcss-px-2-vw@0.0.1",
+      "D:\\pszx-web"
+    ]
+  ],
+  "_from": "postcss-px-2-vw@0.0.1",
+  "_id": "postcss-px-2-vw@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-QFmMR2q+q58WfW5ylzDtA5HdRz/tQ5/2QNglLb6iSan4IYnlXpTKZpIC8jIA/I2tKAEgZfSh5FmwIyM/qbd4FA==",
+  "_location": "/postcss-px-2-vw",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "postcss-px-2-vw@0.0.1",
+    "name": "postcss-px-2-vw",
+    "escapedName": "postcss-px-2-vw",
+    "scope": "",
+    "rawSpec": "0.0.1",
+    "saveSpec": null,
+    "fetchSpec": "0.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@xianzhengquan/postcss-px-2-vw/-/postcss-px-2-vw-0.0.1.tgz",
+  "_spec": "0.0.1",
+  "_where": "D:\\pszx-web",
+  "author": {
+    "name": "yasuo"
+  },
+  "bugs": {
+    "url": "https://github.com/XianZhengquan/postcss-px-to-viewport/issues"
+  },
+  "description": "postcss-px-2-vw",
+  "devDependencies": {
+    "object-assign": "^4.1.1",
+    "postcss": "^8.3.5"
+  },
+  "homepage": "https://github.com/XianZhengquan/postcss-px-to-viewport#readme",
+  "keywords": [
+    "postcss",
+    "to",
+    "vw",
+    "px",
+    "viewport",
+    "postcss-px-2-vw"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "postcss-px-2-vw",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XianZhengquan/postcss-px-to-viewport.git"
+  },
+  "version": "0.0.1"
+}
